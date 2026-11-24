@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 24/11/2026
+## Reference Number: 26018314
+## Name: SHARVESHJI B A
 
 ## Problem Title
 SIH 26033: Multiple intermediaries in the agricultural supply chain reduce farmers' earnings while increasing prices for consumers. Farmers often struggle to find direct buyers, access fair market prices, and arrange affordable transportation.
