@@ -4,7 +4,7 @@
 ## Name:
 
 ## Problem Title
-SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
+SIH 26033: Multiple intermediaries in the agricultural supply chain reduce farmers' earnings while increasing prices for consumers. Farmers often struggle to find direct buyers, access fair market prices, and arrange affordable transportation.
 
 ## Problem Creater's Organization
 Ministry of Consumer Affairs, Food & Public Distribution
@@ -32,21 +32,68 @@ Remove These Lines
 3. Innovation and uniqueness of the solution
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies Used
+
+Component	Technology
+Frontend	React.js / HTML / CSS / JavaScript
+Backend	Python / FastAPI
+Database	MySQL / PostgreSQL
+AI & ML	Python, Scikit-learn
+Demand Forecasting	Machine Learning
+Route Optimization	Google Maps API / OSRM
+Authentication	Firebase
+Deployment	GitHub / Cloud Hosting
+
+System Workflow
+1.Farmers register on the platform.
+2.Farmers upload agricultural products and available quantities.
+3.Consumers and bulk buyers browse available products.
+4.Buyers place orders directly with farmers.
+5.AI analyzes demand and provides recommendations.
+6.Logistics providers receive delivery requests.
+7.Route optimization identifies efficient delivery paths.
+8.Products are delivered to customers.
+9.Farmers receive payments through digital transactions.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+AgriDirect can be developed using existing web technologies, open-source machine learning libraries, mapping services, and digital payment systems.
+
+Potential Challenges
+Limited digital literacy among farmers.
+Internet connectivity issues in rural areas.
+Transportation availability.
+Agricultural price fluctuations.
+Product quality and delivery management.
+Proposed Solutions
+Regional language support and simple user interfaces.
+Lightweight application with offline-friendly features.
+Partnerships with local transport providers.
+AI-assisted price recommendations.
+Product quality verification and order tracking.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Benefits for Farmers
+Better selling prices.
+Direct access to consumers and bulk buyers.
+Reduced dependency on intermediaries.
+Wider market opportunities.
+
+Benefits for Consumers
+Lower purchasing costs.
+Access to fresh agricultural products.
+Transparent product pricing.
+Convenient online ordering.
+Environmental Benefits
+
+Reduced food wastage.
+Optimized transportation routes.
+Lower fuel consumption.
+Improved agricultural supply chain efficiency.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+eNAM: https://www.enam.gov.in/
+AGMARKNET: https://agmarknet.gov.in/
+Digital India: https://www.digitalindia.gov.in/
+FAO: https://www.fao.org/
+Google OR-Tools: https://developers.google.com/optimization
+TensorFlow: https://www.tensorflow.org/
